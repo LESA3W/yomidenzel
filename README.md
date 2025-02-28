@@ -1,3 +1,3 @@
 # 🚀 A site summarising Yomi Denzel !
 
-# 🔗 Lien : https://lesa3w.github.io/yomidenzel/
+# 🔗 Link : https://lesa3w.github.io/yomidenzel/
