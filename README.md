@@ -1,3 +1,3 @@
-# An efficient calculator !
+# Un site résumant Yomi Denzel !
 
-# 🔗 Lien : https://lesa3w.github.io/calculator/
+# 🔗 Lien : https://lesa3w.github.io/yomidenzel/
